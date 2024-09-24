@@ -10,7 +10,7 @@ def create_connection():
             host="gateway01.ap-southeast-1.prod.aws.tidbcloud.com",
             port=4000,
             user="2NWb96BauSzhCfv.root",
-            password="glYD5rr41K6XQFlI",
+            password="FlKt7G8RKi0SOme7",
             database="userdetails",
         )
         if connection.is_connected():
